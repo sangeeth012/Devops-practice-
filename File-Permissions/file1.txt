@@ -1,0 +1,6 @@
+ 
+
+echo " hello linux " 
+
+echo " this file have permission for excute and delete for all permission are allowed "
+
