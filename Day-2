@@ -1,0 +1,18 @@
+
+day -2 
+
+Basic Commands	ls, cd, mkdir, touch, rm. Create /home/$USER/test. 
+
+purpose of this command 
+
+ ls -> list the file in the directory 
+
+ cd -> change directory 
+
+ mkdir -> create a new folder 
+
+ touch -> to create a new file 
+
+  useradd -> is the command is used to create a user without home directory
+
+adduser -> is the command to create a user with home directoy
