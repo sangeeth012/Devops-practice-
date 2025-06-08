@@ -1,0 +1,23 @@
+
+
+ Text Editors	Edit files with nano & vim. Save and exit (:wq). 
+
+Action	Command
+
+Write (save)	Ctrl + O → Press Enter
+
+Exit	Ctrl + X (prompts to save if unsaved)
+
+Cut Line	Ctrl + K
+
+Paste	Ctrl + U
+
+Search	Ctrl + W → Type term → Enter
+
+3. Practice Task
+
+Type: "Hello, Nano! Today is $(date)"
+
+Save (Ctrl + O), exit (Ctrl + X).
+
+Verify:
