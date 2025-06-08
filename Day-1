@@ -1,0 +1,7 @@
+ #!/bin/bash 
+
+Install Linux	Install Ubuntu (dual-boot/VirtualBox/WSL). Run uname -a.
+
+#000   Day -1
+
+echo "sucessfully installed the wsl(windos sub system for linux and virutal box on ec2 instance " 
